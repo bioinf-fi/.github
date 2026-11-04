@@ -105,16 +105,6 @@ how their position varies between individuals and how it is inherited.
 ### G-quadruplex (G4) structures
 
 G-quadruplexes are stable secondary DNA structures that can influence replication, mutation and recombination.
-We study them genome-wide and across generations.
-
-<details>
-<summary>Read more</summary>
-
-We focus on how G4-forming sequences mutate in a three-generation pedigree with complete genomes. We also
-combine computational G4 prediction (e.g. with [pqsfinder](https://pqsfinder.fi.muni.cz/)) with experimental
-G4 detection by PDAL-seq.
-
-</details>
 
 #### ↳ PRDM9 and G4
 
