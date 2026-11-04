@@ -102,10 +102,6 @@ how their position varies between individuals and how it is inherited.
 
 **Preprint:** [bioRxiv, 2025](https://www.biorxiv.org/content/10.64898/2025.12.14.693655v1)
 
-### Centromeres and loss of the Y chromosome (LOY)
-
-We study the role of Y-chromosome centromeres in the loss of the Y chromosome (LOY).
-
 ### G-quadruplex (G4) structures
 
 G-quadruplexes are stable secondary DNA structures that can influence replication, mutation and recombination.
@@ -211,6 +207,8 @@ other activities in Brno, introducing them to bioinformatics and genomics.
     relative paths do not work reliably on the organization page.
   - Links: keep only the ones you want (GitHub, Google Scholar, ORCID, personal website, ...).
   - Three people per row: when a row is full, start a new <tr> ... </tr> with up to three <td> cells.
+  - The invisible spacer.png images in the first row stretch the table to the full page width
+    (GitHub ignores width on tables and cells). Adjust width="245" there if needed.
 -->
 
 <table>
@@ -219,19 +217,22 @@ other activities in Brno, introducing them to bioinformatics and genomics.
       <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/Monika-Cechova.jpg" width="100" alt="Monika Čechová"><br>
       <b>Mgr. Monika Čechová, Ph.D.</b><br>
       Assistant Professor<br>
-      <a href="https://orcid.org/0000-0002-7420-2663">ORCID</a> · <a href="https://github.com/biomonika">GitHub</a> · <a href="https://scholar.google.com/citations?user=eRi4gvUAAAAJ">Google Scholar</a>
+      <a href="https://orcid.org/0000-0002-7420-2663">ORCID</a> · <a href="https://github.com/biomonika">GitHub</a> · <a href="https://scholar.google.com/citations?user=eRi4gvUAAAAJ">Google Scholar</a><br>
+      <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/spacer.png" width="245" height="1" alt="">
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/Matej-Lexa.jpg" width="100" alt="Matej Lexa"><br>
       <b>doc. Ing. Matej Lexa, Ph.D.</b><br>
       Associate Professor<br>
-      <a href="https://orcid.org/0000-0002-4213-5259">ORCID</a> · <a href="https://www.researchgate.net/profile/Matej-Lexa">ResearchGate</a>
+      <a href="https://orcid.org/0000-0002-4213-5259">ORCID</a> · <a href="https://www.researchgate.net/profile/Matej-Lexa">ResearchGate</a><br>
+      <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/spacer.png" width="245" height="1" alt="">
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/Mariateresa-Mazzetto.jpg" width="100" alt="Mariateresa Mazzetto"><br>
       <b>Mariateresa Mazzetto, PhD</b><br>
       Senior PostDoc Specialist<br>
-      <a href="https://github.com/Mariateresa91">GitHub</a> · <a href="https://scholar.google.com/citations?user=Rsq2_MYAAAAJ">Google Scholar</a> · <a href="https://www.linkedin.com/in/mariateresa-mazzetto-880874138/">LinkedIn</a>
+      <a href="https://github.com/Mariateresa91">GitHub</a> · <a href="https://scholar.google.com/citations?user=Rsq2_MYAAAAJ">Google Scholar</a> · <a href="https://www.linkedin.com/in/mariateresa-mazzetto-880874138/">LinkedIn</a><br>
+      <img src="https://raw.githubusercontent.com/bioinf-fi/.github/main/profile/photos/spacer.png" width="245" height="1" alt="">
     </td>
   </tr>
   <tr>
